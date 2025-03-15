@@ -52,5 +52,12 @@ This code provides a clean and modern `README.md` file structure with sections t
 
 Feel free to customize it further based on your project's needs!
 
+## 📞 Contact Me
+
+Feel free to reach out to me for collaborations, projects, or just a chat!  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.dinesh.it27@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8122129450)
+
 
 
